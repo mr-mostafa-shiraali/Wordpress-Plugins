@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mybbSync\n"
+"POT-Creation-Date: 2019-07-24 13:22+0430\n"
+"PO-Revision-Date: 2019-07-24 13:22+0430\n"
+"Last-Translator: Mostafa <admin@mypgr.ir>\n"
+"Language-Team: Mostafa Shiraali <mr.mostafa.shiraali@gmail.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: mybbSync.php:63
+msgid "Mybb User Sync"
+msgstr "همگام ساز کابران مای بی بی با وردپرس"
+
+#: mybbSync.php:63
+msgid "Mybb Sync"
+msgstr "همگام سازبا مای بی بی"
+
+#: mybbSync.php:69
+msgid ""
+"Mybb User Sync Options(<a href=\"https://mypgr.ir/programmer/\" target="
+"\"_blank\">order Advanbced Version</a>)"
+msgstr ""
+"تنظیمات همگام سازی با انجمن ساز مای بی بی (<a href=\"https://mypgr.ir/dev/\" "
+"target=\"_blank\">سفارش نسخه حرفه ای</a>)"
+
+#: mybbSync.php:74
+msgid "Host of Mybb"
+msgstr "هاست مای بی بی"
+
+#: mybbSync.php:75
+msgid "Insert Mybb host .Default : localhost"
+msgstr "هاست خود را وارد نمایید (پیشفرض : localhost)"
+
+#: mybbSync.php:79
+msgid "Database name"
+msgstr "نام پایگاه داده"
+
+#: mybbSync.php:83
+msgid "Database Username"
+msgstr "نام کاربر پایگاه داده"
+
+#: mybbSync.php:87
+msgid "Database Password"
+msgstr "رمز عبور پایگاه داده"
+
+#: mybbSync.php:91
+msgid "Mybb Table Prefix"
+msgstr "پیشوند جدول های مای بی بی"
+
+#: mybbSync.php:95
+msgid "Mybb Root Folder"
+msgstr "نام پوشه انجمن"
+
+#~ msgid "Mybb User Sync Options"
+#~ msgstr ""
+#~ "تنظیمات همگام سازی کاربران با مای بی بی (ساخته شده توسط <a href=\"http://"
+#~ "pctricks.ir\" target=\"_blank\">Mostafa</a> ) "
+
+#~ msgid "Mybb Last Information"
+#~ msgstr "آخرین اطلاعات انجمن ساز مای بی بی "
+
+#~ msgid "Items Number"
+#~ msgstr "تعداد آیتم های اطلاعات"
+
+#~ msgid "Insert Number of Items"
+#~ msgstr "تعداد آیتم های اطلاعات را وارد نمایید"
+
+#~ msgid "Post Title Characters"
+#~ msgstr "کارکترهای عنوان ارسال"
+
+#~ msgid "Insert Number of Post Title Characters"
+#~ msgstr "تعداد کارکتر عنوان مطالب را وارد کنید"
+
+#~ msgid "File Title Characters"
+#~ msgstr "کارکتر های عنوان فایل"
+
+#~ msgid "Insert Number of File Title Characters"
+#~ msgstr "تعداد کارکترهای نام فایل وارد کنید"
+
+#~ msgid "Forum Statistics"
+#~ msgstr "آمار انجمن"
+
+#~ msgid "Do You Want Show Forum Statistics?"
+#~ msgstr "آیا می خواهید آمار انجمن نمایش داده شوند؟"
+
+#~ msgid "Last Posts"
+#~ msgstr "آخرین ارسال ها"
+
+#~ msgid "Do You Want Show Last Mybb Posts?"
+#~ msgstr "آیا می خواهید آخرین ارسال های مای بی بی نمایش داده شود؟"
+
+#~ msgid "Last Users"
+#~ msgstr "آخرین کاربران"
+
+#~ msgid "Do You Want Show Last Mybb Users?"
+#~ msgstr "آیا می خواهید آخرین کاربران مای بی بی نمایش داده شود؟"
+
+#~ msgid "Most Viewed Posts"
+#~ msgstr "پربازدیدترین ارسال ها"
+
+#~ msgid "Do You Want Show Most Viewed Posts?"
+#~ msgstr "آیا می خواهید پربازدیدترین مطالب نمایش داده شود؟"
+
+#~ msgid "Most Popular Topics"
+#~ msgstr "داغ ترین موضوعات"
+
+#~ msgid "Do You Want Show Most Popular Topic?"
+#~ msgstr "آیا می خواهید داغ ترین موضوعات نمایش داده شوند؟"
+
+#~ msgid "Top Reputation"
+#~ msgstr "بیشترین اعتبار"
+
+#~ msgid "Do You Want Show Top Reputation?"
+#~ msgstr "آیا می خواهید کاربران با بالاترین اعتبار نمایش داده شود؟"
+
+#~ msgid "Top Files"
+#~ msgstr "برترین فایل ها"
+
+#~ msgid "Do You Want Show Top Files?"
+#~ msgstr "آیا می خواهید برترین فایل ها نمایش داده شوند؟"
+
+#~ msgid "Top Posters"
+#~ msgstr "برترین ارسال کنندگان"
+
+#~ msgid "Do You Want Show Top Posters?"
+#~ msgstr "آیا می خواهید برترین ارسال کنندگان نمایش داده شوند؟"
+
+#~ msgid "Top Reffer"
+#~ msgstr "برترین معرف ها"
+
+#~ msgid "Do You Want Show Top Reffer?"
+#~ msgstr "آیا می خواهید برترین معرف ها نمایش داده شوند؟"
+
+#~ msgid "Members"
+#~ msgstr "کاربران"
+
+#~ msgid "Threads"
+#~ msgstr "موضوعات"
+
+#~ msgid "Posts"
+#~ msgstr "ارسال ها"
+
+#~ msgid "Banned Users"
+#~ msgstr "کاربران محروم"
+
+#~ msgid "User Groups"
+#~ msgstr "گروه های کاربری"
+
+#~ msgid "Forums"
+#~ msgstr "انجمن ها"
+
+#~ msgid "Polls"
+#~ msgstr "نظرسنجی"
+
+#~ msgid "Last Post"
+#~ msgstr "آخرین ارسال ها"
+
+#~ msgid "Last User"
+#~ msgstr "آخرین کاربران"
+
+#~ msgid "Most viewed"
+#~ msgstr "مطالب محبوب"
+
+#~ msgid "Hot Topics"
+#~ msgstr "موضوعات داغ"
+
+#~ msgid "Top posting users"
+#~ msgstr "برترین ارسال کنندگان"

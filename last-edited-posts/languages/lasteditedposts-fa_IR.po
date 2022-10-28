@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: lasteditedposts\n"
+"POT-Creation-Date: 2017-09-04 16:35+0430\n"
+"PO-Revision-Date: 2017-09-04 16:35+0430\n"
+"Last-Translator: \n"
+"Language-Team: Mostafa Shiraali <mr.mostafa.shiraali@gmail.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lasteditedposts.php:80
+msgid "Title :"
+msgstr "عنوان :"
+
+#: lasteditedposts.php:84
+msgid "Category"
+msgstr "دسته بندی"
+
+#: lasteditedposts.php:102
+msgid "Number of posts to show"
+msgstr "تعداد نوشته‌ها برای نمایش"
+
+#~ msgid "Last Updated Widget"
+#~ msgstr "آخرین بروزرسانی"
+
+#~ msgid "Keywords Engine"
+#~ msgstr "موتور برچسب ها"
+
+#~ msgid "Select Keywords Engine(If Select Both Loading time is more)"
+#~ msgstr ""
+#~ "یک موتور را انتخاب نمایید (اگر حالت هر دو را انتخاب نمایید ممکن است چند "
+#~ "لحظه بارگذاری سایت افزایش یابد)"
+
+#~ msgid "Google.com"
+#~ msgstr "Google.com"
+
+#~ msgid "Bing.com"
+#~ msgstr "Bing.com"
+
+#~ msgid "Both"
+#~ msgstr "هر دو"
+
+#~ msgid "Number of Keyword"
+#~ msgstr "تعداد برچسب ها"
+
+#~ msgid ""
+#~ "Select Number of Keyword,I recommend you choose Normal.(If Select alot "
+#~ "Loading time is more)"
+#~ msgstr ""
+#~ "تعداد برچسب ها را انتخاب نمایید ، پیشنهاد می کنم حالت معمولی را انتخاب "
+#~ "نمایید"
+
+#~ msgid "normal"
+#~ msgstr "معمولی"
+
+#~ msgid "High"
+#~ msgstr "زیاد"
+
+#~ msgid "Keywords Theme"
+#~ msgstr "قالب برچسب ها"
+
+#~ msgid "Select Keywords theme"
+#~ msgstr "قالب کلمات کلیدی را وارد نمایید"
+
+#~ msgid "Seo Tags"
+#~ msgstr "برچسب های سئو"
+
+#~ msgid "Seo Tags Widget"
+#~ msgstr "ابزارک های برچسب سئو"
+
+#~ msgid "Seo Tags Option"
+#~ msgstr "تنظیمات برچسب های سئو"
+
+#~ msgid "3D Tag Cloud"
+#~ msgstr "ابر برچسب 3D"
+
+#~ msgid ""
+#~ "You Can Change 3D Tag Cloud Theme Option From Here(<a href=\"http://www."
+#~ "goat1000.com/tagcanvas-options.php\" target=\"_blank\">Option "
+#~ "Description</a>)"
+#~ msgstr ""
+#~ "شما می توانید تنظیمات پلاگین 3D Tag Cloud را از اینجا تغییر دهید برای "
+#~ "خواندن توضیحات پلاگین <a href=\"http://www.goat1000.com/tagcanvas-options."
+#~ "php\" target=\"_blank\">اینجا را بخوانید</a> "
+
+#~ msgid "Menu Theme"
+#~ msgstr "Menu Theme"
+
+#~ msgid "Select Menu theme"
+#~ msgstr "Select Menu theme"
+
+#~ msgid "Wordpress Information Options"
+#~ msgstr "تنظیمات اطلاعات وردپرس"
+
+#~ msgid "Number Registered Today"
+#~ msgstr "تعداد عضویت امروز"
+
+#~ msgid "Do You Want Show Number of Today Register?"
+#~ msgstr "آیا می خواهید تعداد عضویت امروز را نمایش دهد؟"
+
+#~ msgid "Number Registered yesterday"
+#~ msgstr "تعداد عضویت دیروز"
+
+#~ msgid "Do You Want Show Number of yesterday Register?"
+#~ msgstr "آیا می خواهید تعداد عضویت دیروز را نمایش دهد؟"
+
+#~ msgid "Number of All User"
+#~ msgstr "تعداد کاربران"
+
+#~ msgid "Do You Want Show Number of All User?"
+#~ msgstr "آیا می خواهید تعداد کاربران را نمایش دهد؟"
+
+#~ msgid "Number of Today Comments"
+#~ msgstr "تعداد نظرات امروز"
+
+#~ msgid "Do You Want Show Number of Today Comments?"
+#~ msgstr "آیا می خواهید تعداد نظرات امروز نمایش داده شود؟"
+
+#~ msgid "Number of All Comments"
+#~ msgstr "تعداد همه نظرات"
+
+#~ msgid "Do You Want Show Number of All Comments?"
+#~ msgstr "آیا می خواهید تعداد همه نظرات نمایش داده شود؟"
+
+#~ msgid "Number of Articles"
+#~ msgstr "تعداد پست ها"
+
+#~ msgid "Do You Want Show Number of Articles?"
+#~ msgstr "آیا می خواهید تعداد پست ها نمایش داده شود؟"
+
+#~ msgid "Last User"
+#~ msgstr "آخرین کاربر"
+
+#~ msgid "Do You Want Show Last User?"
+#~ msgstr "آیا می خواهید آخرین کاربر را نمایش دهد؟"
+
+#~ msgid "WP Info Widget"
+#~ msgstr "ابزارک اطلاعات وردپرس"
+
+#~ msgid "WP Stat Widget"
+#~ msgstr "ابزارک اطلاعات وردپرس"
+
+#~ msgid "Online Users"
+#~ msgstr "کاربران آنلاین"
+
+#~ msgid "Today Visit"
+#~ msgstr "بازدید امروز"
+
+#~ msgid "Week Visit"
+#~ msgstr "بازدید هفته"
+
+#~ msgid "Month Visit"
+#~ msgstr "بازدید ماه"
+
+#~ msgid "Year Visit"
+#~ msgstr "بازدید سال"
+
+#~ msgid "All Visit"
+#~ msgstr "بازدید کل"
+
+#~ msgid "Simple Stat Widget"
+#~ msgstr "ابزارک آمار ساده"
+
+#~ msgid "Send Email To Users"
+#~ msgstr "ارسال ایمیل به کاربران"
+
+#~ msgid "Email Sender"
+#~ msgstr "ارسال کننده ایمیل"
+
+#~ msgid "Mybb Last Information"
+#~ msgstr "آخرین اطلاعات انجمن ساز مای بی بی "
+
+#~ msgid "Mybb Info"
+#~ msgstr "اطلاعات مای بی بی"
+
+#~ msgid "Mybb Last Information Options"
+#~ msgstr ""
+#~ "تنظیمات آخرین اطلاعات مای بی بی (ساخته شده توسط <a href=\"http://pctricks."
+#~ "ir\" target=\"_blamk\">Mostafa</a> ) "
+
+#~ msgid "Host of Mybb"
+#~ msgstr "هاست مای بی بی"
+
+#~ msgid "Insert Mybb host .Default : localhost"
+#~ msgstr "هاست خود را وارد نمایید (پیشفرض : localhost)"
+
+#~ msgid "Database name"
+#~ msgstr "نام پایگاه داده"
+
+#~ msgid "Database Username"
+#~ msgstr "نام کاربر پایگاه داده"
+
+#~ msgid "Database Password"
+#~ msgstr "رمز عبور پایگاه داده"
+
+#~ msgid "Mybb Table Prefix"
+#~ msgstr "پیشوند جدول های مای بی بی"
+
+#~ msgid "Items Number"
+#~ msgstr "تعداد آیتم های اطلاعات"
+
+#~ msgid "Insert Number of Items"
+#~ msgstr "تعداد آیتم های اطلاعات را وارد نمایید"
+
+#~ msgid "Post Title Characters"
+#~ msgstr "کارکترهای عنوان ارسال"
+
+#~ msgid "Insert Number of Post Title Characters"
+#~ msgstr "تعداد کارکتر عنوان مطالب را وارد کنید"
+
+#~ msgid "File Title Characters"
+#~ msgstr "کارکتر های عنوان فایل"
+
+#~ msgid "Insert Number of File Title Characters"
+#~ msgstr "تعداد کارکترهای نام فایل وارد کنید"
+
+#~ msgid "Forum Statistics"
+#~ msgstr "آمار انجمن"
+
+#~ msgid "Do You Want Show Forum Statistics?"
+#~ msgstr "آیا می خواهید آمار انجمن نمایش داده شوند؟"
+
+#~ msgid "Last Posts"
+#~ msgstr "آخرین ارسال ها"
+
+#~ msgid "Do You Want Show Last Mybb Posts?"
+#~ msgstr "آیا می خواهید آخرین ارسال های مای بی بی نمایش داده شود؟"
+
+#~ msgid "Last Users"
+#~ msgstr "آخرین کاربران"
+
+#~ msgid "Do You Want Show Last Mybb Users?"
+#~ msgstr "آیا می خواهید آخرین کاربران مای بی بی نمایش داده شود؟"
+
+#~ msgid "Most Viewed Posts"
+#~ msgstr "پربازدیدترین ارسال ها"
+
+#~ msgid "Do You Want Show Most Viewed Posts?"
+#~ msgstr "آیا می خواهید پربازدیدترین مطالب نمایش داده شود؟"
+
+#~ msgid "Most Popular Topics"
+#~ msgstr "داغ ترین موضوعات"
+
+#~ msgid "Do You Want Show Most Popular Topic?"
+#~ msgstr "آیا می خواهید داغ ترین موضوعات نمایش داده شوند؟"
+
+#~ msgid "Top Reputation"
+#~ msgstr "بیشترین اعتبار"
+
+#~ msgid "Do You Want Show Top Reputation?"
+#~ msgstr "آیا می خواهید کاربران با بالاترین اعتبار نمایش داده شود؟"
+
+#~ msgid "Top Files"
+#~ msgstr "برترین فایل ها"
+
+#~ msgid "Do You Want Show Top Files?"
+#~ msgstr "آیا می خواهید برترین فایل ها نمایش داده شوند؟"
+
+#~ msgid "Top Posters"
+#~ msgstr "برترین ارسال کنندگان"
+
+#~ msgid "Do You Want Show Top Posters?"
+#~ msgstr "آیا می خواهید برترین ارسال کنندگان نمایش داده شوند؟"
+
+#~ msgid "Top Reffer"
+#~ msgstr "برترین معرف ها"
+
+#~ msgid "Do You Want Show Top Reffer?"
+#~ msgstr "آیا می خواهید برترین معرف ها نمایش داده شوند؟"
+
+#~ msgid "Members"
+#~ msgstr "کاربران"
+
+#~ msgid "Threads"
+#~ msgstr "موضوعات"
+
+#~ msgid "Posts"
+#~ msgstr "ارسال ها"
+
+#~ msgid "User Groups"
+#~ msgstr "گروه های کاربری"
+
+#~ msgid "Forums"
+#~ msgstr "انجمن ها"
+
+#~ msgid "Polls"
+#~ msgstr "نظرسنجی"
+
+#~ msgid "Last Post"
+#~ msgstr "آخرین ارسال ها"
+
+#~ msgid "Most viewed"
+#~ msgstr "مطالب محبوب"
+
+#~ msgid "Hot Topics"
+#~ msgstr "موضوعات داغ"
+
+#~ msgid "Top posting users"
+#~ msgstr "برترین ارسال کنندگان"

@@ -1,0 +1,246 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mybblastinfo\n"
+"POT-Creation-Date: 2015-06-25 06:55+0330\n"
+"PO-Revision-Date: 2015-06-25 06:55+0330\n"
+"Last-Translator: Mostafa <mr.mostafa.shiraali@gmail.com>\n"
+"Language-Team: Mostafa Shiraali <admin@pctricks.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: vmenu.php:49
+msgid "Vertical menu"
+msgstr "فهرست عمودی"
+
+#: vmenu.php:55
+msgid "Vertical menu Option"
+msgstr "تنظیمات فهرست عمودی"
+
+#: vmenu.php:60
+msgid "Menu Direction"
+msgstr "جهت فهرست"
+
+#: vmenu.php:61
+msgid "Select Menu Direction"
+msgstr "جهت فهرست را انتخاب نمایید"
+
+#: vmenu.php:64
+msgid "Right To Left"
+msgstr "راس به چپ"
+
+#: vmenu.php:65
+msgid "Left To Right"
+msgstr "چپ به راست"
+
+#: vmenu.php:70
+msgid "Menu Theme"
+msgstr "پوسته فهرست"
+
+#: vmenu.php:71
+msgid "Select Menu theme"
+msgstr "پوسته فهرست را انتخاب نمایید"
+
+#: vmenu.php:74
+msgid "Defualt"
+msgstr "پیشفرض"
+
+#: vmenu.php:75
+msgid "Simple Accordion"
+msgstr "آکوردئون ساده"
+
+#: vmenu.php:76
+msgid "Black-Orange"
+msgstr "سیاه-نارنجی"
+
+#: vmenu.php:77
+msgid "Black-Green"
+msgstr "سیاه-سبز"
+
+#: vmenu.php:78
+msgid "Black-Blue"
+msgstr "سیاه-آبی"
+
+#: vmenu.php:79
+msgid "Black-Yellow"
+msgstr "سیاه-زرد"
+
+#: vmenu.php:80
+msgid "Black-Pink"
+msgstr "سیاه-صورتی"
+
+#: vmenu.php:81
+msgid "CSS3-Gray-Blue"
+msgstr "CSS3 خاکستری-آبی"
+
+#: vmenu.php:82
+msgid "CSS3-Gray-green"
+msgstr "CSS3 خاکستری-سبز"
+
+#: vmenu.php:83
+msgid "CSS3-Gray-Yellow"
+msgstr "گری CSS3-زرد"
+
+#: vmenu.php:84
+msgid "CSS3-Gray-red"
+msgstr "گری CSS3-قرمز"
+
+#: vmenu.php:85
+msgid "CSS3-Black-Green"
+msgstr "CSS3 سیاه سبز"
+
+#: vmenu.php:86
+msgid "Turquoise"
+msgstr "فیروزه‌ای"
+
+#: vmenu.php:239
+msgid "Title :"
+msgstr "عنوان :"
+
+#: vmenu.php:244 vmenu.php:245
+msgid "Vertical Menu Widget"
+msgstr "ابزارک فهرست عمودی"
+
+#~ msgid "Vertical Menu"
+#~ msgstr "فهرست عمودی"
+
+#~ msgid "Mybb Last Information"
+#~ msgstr "آخرین اطلاعات انجمن ساز مای بی بی "
+
+#~ msgid "Mybb Info"
+#~ msgstr "اطلاعات مای بی بی"
+
+#~ msgid "Mybb Last Information Options"
+#~ msgstr "تنظیمات آخرین اطلاعات مای بی بی (ساخته شده توسط <a href=\"http://pctricks.ir\" target=\"_blamk\">Mostafa</a> ) "
+
+#~ msgid "Host of Mybb"
+#~ msgstr "هاست مای بی بی"
+
+#~ msgid "Insert Mybb host .Default : localhost"
+#~ msgstr "هاست خود را وارد نمایید (پیشفرض : localhost)"
+
+#~ msgid "Database name"
+#~ msgstr "نام پایگاه داده"
+
+#~ msgid "Database Username"
+#~ msgstr "نام کاربر پایگاه داده"
+
+#~ msgid "Database Password"
+#~ msgstr "رمز عبور پایگاه داده"
+
+#~ msgid "Mybb Table Prefix"
+#~ msgstr "پیشوند جدول های مای بی بی"
+
+#~ msgid "Items Number"
+#~ msgstr "تعداد آیتم های اطلاعات"
+
+#~ msgid "Insert Number of Items"
+#~ msgstr "تعداد آیتم های اطلاعات را وارد نمایید"
+
+#~ msgid "Post Title Characters"
+#~ msgstr "کارکترهای عنوان ارسال"
+
+#~ msgid "Insert Number of Post Title Characters"
+#~ msgstr "تعداد کارکتر عنوان مطالب را وارد کنید"
+
+#~ msgid "File Title Characters"
+#~ msgstr "کارکتر های عنوان فایل"
+
+#~ msgid "Insert Number of File Title Characters"
+#~ msgstr "تعداد کارکترهای نام فایل وارد کنید"
+
+#~ msgid "Forum Statistics"
+#~ msgstr "آمار انجمن"
+
+#~ msgid "Do You Want Show Forum Statistics?"
+#~ msgstr "آیا می خواهید آمار انجمن نمایش داده شوند؟"
+
+#~ msgid "Last Posts"
+#~ msgstr "آخرین ارسال ها"
+
+#~ msgid "Do You Want Show Last Mybb Posts?"
+#~ msgstr "آیا می خواهید آخرین ارسال های مای بی بی نمایش داده شود؟"
+
+#~ msgid "Last Users"
+#~ msgstr "آخرین کاربران"
+
+#~ msgid "Do You Want Show Last Mybb Users?"
+#~ msgstr "آیا می خواهید آخرین کاربران مای بی بی نمایش داده شود؟"
+
+#~ msgid "Most Viewed Posts"
+#~ msgstr "پربازدیدترین ارسال ها"
+
+#~ msgid "Do You Want Show Most Viewed Posts?"
+#~ msgstr "آیا می خواهید پربازدیدترین مطالب نمایش داده شود؟"
+
+#~ msgid "Most Popular Topics"
+#~ msgstr "داغ ترین موضوعات"
+
+#~ msgid "Do You Want Show Most Popular Topic?"
+#~ msgstr "آیا می خواهید داغ ترین موضوعات نمایش داده شوند؟"
+
+#~ msgid "Top Reputation"
+#~ msgstr "بیشترین اعتبار"
+
+#~ msgid "Do You Want Show Top Reputation?"
+#~ msgstr "آیا می خواهید کاربران با بالاترین اعتبار نمایش داده شود؟"
+
+#~ msgid "Top Files"
+#~ msgstr "برترین فایل ها"
+
+#~ msgid "Do You Want Show Top Files?"
+#~ msgstr "آیا می خواهید برترین فایل ها نمایش داده شوند؟"
+
+#~ msgid "Top Posters"
+#~ msgstr "برترین ارسال کنندگان"
+
+#~ msgid "Do You Want Show Top Posters?"
+#~ msgstr "آیا می خواهید برترین ارسال کنندگان نمایش داده شوند؟"
+
+#~ msgid "Top Reffer"
+#~ msgstr "برترین معرف ها"
+
+#~ msgid "Do You Want Show Top Reffer?"
+#~ msgstr "آیا می خواهید برترین معرف ها نمایش داده شوند؟"
+
+#~ msgid "Members"
+#~ msgstr "کاربران"
+
+#~ msgid "Threads"
+#~ msgstr "موضوعات"
+
+#~ msgid "Posts"
+#~ msgstr "ارسال ها"
+
+#~ msgid "Banned Users"
+#~ msgstr "کاربران محروم"
+
+#~ msgid "User Groups"
+#~ msgstr "گروه های کاربری"
+
+#~ msgid "Forums"
+#~ msgstr "انجمن ها"
+
+#~ msgid "Polls"
+#~ msgstr "نظرسنجی"
+
+#~ msgid "Last Post"
+#~ msgstr "آخرین ارسال ها"
+
+#~ msgid "Last User"
+#~ msgstr "آخرین کاربران"
+
+#~ msgid "Most viewed"
+#~ msgstr "مطالب محبوب"
+
+#~ msgid "Hot Topics"
+#~ msgstr "موضوعات داغ"
+
+#~ msgid "Top posting users"
+#~ msgstr "برترین ارسال کنندگان"

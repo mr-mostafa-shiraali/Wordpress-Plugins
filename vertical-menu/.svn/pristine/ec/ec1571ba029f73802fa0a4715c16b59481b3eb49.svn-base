@@ -1,0 +1,66 @@
+#navigation{
+	direction:rtl;/* Direction Group */
+	font-size:12px ;
+	font-family:Tahoma;
+max-width: 100%;
+}
+#navigation ul{
+	margin:0px;
+    padding:0px;
+
+}
+#navigation li{
+background: #E1E4E6;
+list-style: outside none none;
+z-index: 99999;
+text-align: right;/* Direction Group */
+height:30px;
+color: #000;
+border-radius: 3px;
+transition: all 0.2s ease 0s;
+margin: 4px 0px;
+}
+#navigation a {
+     color: #000;
+	 display:block;
+	 height:25px;
+	 line-height: 25px;
+	 text-indent: 10px;                   
+	 text-decoration:none;
+	 width:100%;
+	 margin-right:5px;/* Direction Group */
+}
+#navigation a:hover{
+ 	 text-decoration:none;
+}
+#navigation li:hover {
+ background: none repeat scroll 0% 0% #2FC566;
+ position: relative;
+}
+ul.sub-menu {
+    display: none;
+}
+#navigation li:hover >.sub-menu {
+    background: #E1E4E6;
+border-radius: 3px;
+transition: all 0.2s ease 0s;
+margin: 4px 0px;
+    display: block;
+    position: absolute;
+    right: 200px;/* Direction Group */
+    top: -7px;
+	vertical-align:top;
+}
+ul.sub-menu li {
+    border-radius: 3px;
+transition: all 0.2s ease 0s;
+margin: 4px 0px;
+    float:right;
+    width:200px;
+
+}
+#navigation > ul > li > ul{margin: 0px 0px 0px 16%;}
+@media screen and (min-device-width:600px) and (max-width: 1024px) {
+#navigation > ul > li > ul{margin: 0px 0px 0px -10.5%;}
+}
+
